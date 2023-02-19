@@ -22,21 +22,21 @@ Unfortunately, this is quite common. I listed some possible fixes [in this docum
 
 **A:** It's on my website at <http://codingheroes.io/resources>. You can subscribe for updates 😉
 
-### Q8: Videos don't load, can you fix it?
+### Q5: Videos don't load, can you fix it?
 
 **A:** Unfortunately, there is nothing I can do about it. The course is hosted on Udemy, and sometimes they have technical issues like this. Please just come back a bit later or [contact their support team](https://support.udemy.com/hc/en-us).
 
-### Q9: Videos are blurred / have low quality, can you fix it?
+### Q6: Videos are blurred / have low quality, can you fix it?
 
 **A:** Please open video settings and change the quality from 'Auto' to another value, for example 720p. If that doesn't help, please [contact the Udemy support team](https://support.udemy.com/hc/en-us).
 
-### Q10: Are the videos downloadable?
+### Q7: Are the videos downloadable?
 
 **A:** Yes! I made all videos downloadable from Udemy so you can learn even without an internet connection. To download a video, use the settings icon in the right bottom corner of the video player. Videos have to be downloaded individually.
 
-### Q11: I want to put these projects in my portfolio. Is that allowed?
+### Q8: I want to put these projects in my portfolio. Is that allowed?
 
 **A:** Absolutely! Just make sure you actually built them yourself by following, and that you understand what you did. What is **not allowed** is that you create your own course/videos/articles based on this course's content!
 
-### Q13: Do you accept pull requests? 
+### Q9: Do you accept pull requests? 
 **A:** No, for the simple reason that I want this repository to contain the _exact_ same code that is shown in the videos. However, please feel free to add an issue if you found one.
