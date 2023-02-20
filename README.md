@@ -16,11 +16,8 @@ Unfortunately, this is quite common. I listed some possible fixes [in this docum
 
 ### Q3: I'm stuck in one of the projects. Where do I get help?
 
-**A:** Have you actually tried to fix the problem on your own? Have you compared your code to the final code? If you failed fixing your problem, please **post a detailed description of the problem to the Q&A area of that video over at Udemy**, along with a [codepen](https://codepen.io/pen/) containing your code. You will get help there. Please don't send me a personal message or email to fix coding problems.
+**A:** Have you actually tried to fix the problem on your own? Have you compared your code to the final code? If you failed fixing your problem, please **post a detailed description of the problem to the Q&A area of that video over at Udemy**, along with a [codepen](https://codepen.io/pen/) containing your code. You will get help there.
 
-### Q4: You keep mentioning your resources page. Where can I find it?
-
-**A:** It's on my website at <http://codingheroes.io/resources>. You can subscribe for updates 😉
 
 ### Q5: Videos don't load, can you fix it?
 
