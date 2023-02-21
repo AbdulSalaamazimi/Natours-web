@@ -1,6 +1,6 @@
 # Natours-website
 
-This is my first projct and I learned in this project HTML CSS SCSS 
+This is my first project and I learned in this project HTML CSS SCSS 
 
 👇 **_Please read the following Frequently Asked Questions (FAQ) carefully** 👇
 
